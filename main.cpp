@@ -9,7 +9,7 @@ bool won = false;
 
 int main(){
     
-    std::cout <<"The new CMD Tick Tack Toe\n\n";
+    std::cout <<"The new CMD Tic Tac Toe\n\n";
     
     display(character);
     Instructions();
