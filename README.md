@@ -1,2 +1,2 @@
 # CMD-Tic-Tac-Toe
-Simple Tic-Tac-Toe game, made for learnig c++ on Codeacademy.
+Simple Tic-Tac-Toe game, made for learnig C++ on Codeacademy.
